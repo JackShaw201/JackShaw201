@@ -30,4 +30,8 @@
 
 ---
 
+<div align="center">
+
 ![](https://count.getloli.com/get/@:JackShaw201?theme=gelbooru)
+
+</div>
