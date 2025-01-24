@@ -27,3 +27,7 @@
 
 |![](https://github-readme-stats.vercel.app/api?username=JackShaw201)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=JackShaw201&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
+
+---
+
+![](https://count.getloli.com/get/@:JackShaw201?theme=gelbooru)
