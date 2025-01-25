@@ -5,7 +5,7 @@
 <td valign="top"  width="50%">
 
 - 🎓 I'm a junior high school student in China.
-- 👨‍💻 I'm currently learning Python, Golang, C, microcontroller programming, and more.
+- 👨‍💻 I'm currently learning Python, Golang, C, microcontroller programming, 和 more.
 - ✍️ [My Blog](https://xshaw.top)
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:xshaw201@gmail.com)
@@ -21,7 +21,7 @@
 </table>
 
 ## 🧰 My Skills
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,cloudflare,css,git,github,gmail,go,html,js,md,nodejs,npm,powershell,py,vscode,vue,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,arduino,c,cloudflare,css,git,github,gmail,go,html,js,md,nodejs,npm,powershell,py,vscode,vue,windows)](https://skillicons.dev)
 
 ## 🏆 My Github Stats
 
