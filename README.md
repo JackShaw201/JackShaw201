@@ -7,7 +7,7 @@
 - 🎓 I'm a junior high school student in China.
 - 👨‍💻 I'm currently learning Python, Golang, C, microcontroller programming, 和 more.
 - 📫 Reach me: [email](mailto:xshaw201@gmail.com)
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/imtgs?label=follow%20me&style=social)](https://github.com/xiaoxiang2010/)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/xiaoxiang2010?label=follow%20me&style=social)](https://github.com/xiaoxiang2010/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
 **「Per aspera ad astra.」**
