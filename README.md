@@ -5,7 +5,7 @@
 <td valign="top"  width="50%">
 
 - 🎓 I'm a junior high school student in China.
-- 👨‍💻 I'm currently learning Python, Golang, C, microcontroller programming, 和 more.
+- 👨‍💻 I'm currently learning Python, Golang, Rust, C/C++, 和 more.
 - 📫 Reach me: [email](mailto:xshaw201@gmail.com)
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/xiaoxiang2010?label=follow%20me&style=social)](https://github.com/xiaoxiang2010/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
@@ -19,7 +19,7 @@
 </table>
 
 ## 🧰 My Skills
-[![My Skills](https://skillicons.dev/icons?i=arch,arduino,c,cloudflare,css,git,github,gmail,go,html,js,md,nodejs,npm,powershell,py,vscode,vue,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,arduino,c,cloudflare,css,git,github,gmail,go,html,js,md,nodejs,npm,powershell,py,rust,vscode,vue,windows)](https://skillicons.dev)
 
 ## 🏆 My Github Stats
 
