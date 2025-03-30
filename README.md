@@ -6,10 +6,8 @@
 
 - 🎓 I'm a junior high school student in China.
 - 👨‍💻 I'm currently learning Python, Golang, C, microcontroller programming, 和 more.
-- ✍️ [My Blog](https://xshaw.top)
-- 💬 Ask me about Anything you want~
 - 📫 Reach me: [email](mailto:xshaw201@gmail.com)
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/imtgs?label=follow%20me&style=social)](https://github.com/imtgs/)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/imtgs?label=follow%20me&style=social)](https://github.com/xiaoxiang2010/)
 - 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist
 
 **「Per aspera ad astra.」**
@@ -25,13 +23,13 @@
 
 ## 🏆 My Github Stats
 
-|![](https://github-readme-stats.vercel.app/api?username=imtgs)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=imtgs&layout=compact&hide_border=true&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=xiaoxiang2010)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxiang2010&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
 
 ---
 
 <div align="center">
 
-![](https://count.getloli.com/get/@:imtgs?theme=gelbooru)
+![](https://count.getloli.com/get/@:xiaoxiang2010?theme=gelbooru)
 
 </div>
