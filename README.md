@@ -13,7 +13,7 @@
 **「Per aspera ad astra.」**
 </td>
 <td valign="center"  width="100%" height="100%">
-<img src="https://raw.githubusercontent.com/hvov/hvov/refs/heads/main/127504792_p0.jpg" width="500" height="300">
+<img src="https://raw.githubusercontent.com/hvov/hvov/refs/heads/main/127504792_p0.jpg" width="auto" height="300">
 </td>
 </tr>
 </table>
